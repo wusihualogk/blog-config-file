@@ -1,2 +1,5 @@
 user:
   config: 撒打发发dd 
+blog:
+  api:
+    url: http://BLOG-API/
