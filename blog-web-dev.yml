@@ -3,3 +3,5 @@ user:
 blog:
   api:
     url: http://BLOG-API/
+  file:
+    url: http://BLOG-FILE/
