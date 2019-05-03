@@ -1,5 +1,5 @@
 blog:
   api:
-    url: http://BLOG-API/
+    url: http://API/
   file:
-    url: http://BLOG-FILE/
+    url: http://FILE/
