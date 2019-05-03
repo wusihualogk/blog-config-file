@@ -2,6 +2,6 @@ user:
   config: 刷新配置成功13
 blog:
   api:
-    url: http://BLOG-API/
+    url: http://API/
   file:
-    url: http://BLOG-FILE/
+    url: http://FILE/
